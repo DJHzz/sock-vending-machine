@@ -1,0 +1,16 @@
+{
+  "codename": "fansong301",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_fansong301.bin",
+  "c_path": "/assets\\ui_font_fansong301.c",
+  "cfg_path": "/assets\\ui_font_fansong301.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "去结算提交订单",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

@@ -1,0 +1,16 @@
+{
+  "codename": "fansong16",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_fansong16.bin",
+  "c_path": "/assets\\ui_font_fansong16.c",
+  "cfg_path": "/assets\\ui_font_fansong16.fcfg",
+  "size": 16,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "元瓶袋个支商品清单雪碧可乐柠檬茶运动饮料脆脆鲨上好佳亲嘴烧枕头草稿纸口罩名称数量单价小计",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

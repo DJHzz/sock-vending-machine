@@ -1,0 +1,16 @@
+{
+  "codename": "chinese36",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_chinese36.bin",
+  "c_path": "/assets\\ui_font_chinese36.c",
+  "cfg_path": "/assets\\ui_font_chinese36.fcfg",
+  "size": 36,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "进入购物应付元",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

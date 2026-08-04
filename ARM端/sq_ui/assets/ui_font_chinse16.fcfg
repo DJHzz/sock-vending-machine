@@ -1,0 +1,16 @@
+{
+  "codename": "chinse16",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_chinse16.bin",
+  "c_path": "/assets\\ui_font_chinse16.c",
+  "cfg_path": "/assets\\ui_font_chinse16.fcfg",
+  "size": 16,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "即买取-扫码支付自动出货名称单价数量可乐小计请登录，若未注册请注册",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

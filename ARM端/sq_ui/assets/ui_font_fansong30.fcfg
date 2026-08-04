@@ -1,0 +1,16 @@
+{
+  "codename": "fansong30",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_fansong30.bin",
+  "c_path": "/assets\\ui_font_fansong30.c",
+  "cfg_path": "/assets\\ui_font_fansong30.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "全部商品饮料零食日用品合计元已选登录注册",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

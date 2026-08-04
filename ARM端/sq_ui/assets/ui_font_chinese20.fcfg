@@ -1,0 +1,16 @@
+{
+  "codename": "chinese20",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_chinese20.bin",
+  "c_path": "/assets\\ui_font_chinese20.c",
+  "cfg_path": "/assets\\ui_font_chinese20.fcfg",
+  "size": 20,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "小时自助服务秒后自动返回首页日期数量总价月年登录元界面订单号用户名不能为空注册两次输的不一致成功请返回登录失败查看未先去请查看串口日志",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

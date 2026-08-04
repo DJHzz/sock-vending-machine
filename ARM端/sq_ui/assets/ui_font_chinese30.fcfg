@@ -1,0 +1,16 @@
+{
+  "codename": "chinese30",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_chinese30.bin",
+  "c_path": "/assets\\ui_font_chinese30.c",
+  "cfg_path": "/assets\\ui_font_chinese30.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "自助贩卖机返回重新选购结算请扫码支付已确认取消订单商品正在出货请取走商品立即首注册继续查看历史页登录界面",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

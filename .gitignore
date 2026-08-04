@@ -1,0 +1,24 @@
+# 忽略编译产生的目标文件和可执行文件
+*.o
+*.exe
+*.a
+*.so
+demo
+server
+merchant
+
+# 忽略生成的构建目录
+build/
+build-*/
+
+# 忽略数据库文件 (因为里面包含动态数据，通常不上传)
+vending.db
+vending.db-journal
+
+# 忽略 VS Code 的配置目录
+.vscode/
+.settings/
+
+# 忽略 Mac 或 Windows 系统产生的垃圾文件
+.DS_Store
+Thumbs.db

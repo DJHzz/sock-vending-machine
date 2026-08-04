@@ -1,0 +1,16 @@
+{
+  "codename": "chinese163",
+  "ttf_path": "/assets/simfang.ttf",
+  "bin_path": "/assets\\ui_font_chinese163.bin",
+  "c_path": "/assets\\ui_font_chinese163.c",
+  "cfg_path": "/assets\\ui_font_chinese163.fcfg",
+  "size": 16,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "随时选购快速取货",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
