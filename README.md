@@ -53,4 +53,4 @@ gcc server.c cJSON.c -o server -lsqlite3 -lm -lpthread
 # 运行服务端
 ./server
 
-哔哩哔哩链接观看项目演示视频：
+哔哩哔哩链接观看项目演示视频：https://www.bilibili.com/video/BV1uVuw6yEV1/
