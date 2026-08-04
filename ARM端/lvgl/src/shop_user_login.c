@@ -17,7 +17,7 @@
 #include <stdlib.h>
 #include "cJSON.h"
 
-#define SERVER_IP "121.43.42.195"   // 云端公网 IP
+#define SERVER_IP "***.**.**.**"   // 云端公网 IP
 #define SERVER_PORT 10000           // 云端端口
 
 /* 存储当前登录成功的用户名（用于页面间传递） */
