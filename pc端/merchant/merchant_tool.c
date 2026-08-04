@@ -12,7 +12,7 @@
 #include <arpa/inet.h>
 #include "cJSON.h"
 
-#define SERVER_IP "121.43.42.195"   // 阿里云服务端公网 IP（需与客户端一致）
+#define SERVER_IP "***.***.**.**"   // 阿里云服务端公网 IP（需与客户端一致）
 #define SERVER_PORT 10000           // 阿里云服务端端口
 
 /* 商品名与数据库 ID 的映射表（0~9 对应服务端 goods 表 id） */
