@@ -16,7 +16,7 @@
 #include <unistd.h>
 #include "cJSON.h"
 
-#define SERVER_IP "121.43.42.195"   // 服务端公网 IP
+#define SERVER_IP "***.***.**.**"   // 服务端公网 IP
 #define SERVER_PORT 10000           // 服务端端口
 
 /* 全局商品列表（去 static，允许 src 外文件直接修改） */
