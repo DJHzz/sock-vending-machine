@@ -20,7 +20,7 @@
 #include "goods_data.h"    // 提供 GOODS_MAX_NUM 宏
 #include "../src/shop_cart.h" // 提供 cart_get_goods_count 函数
 
-#define SERVER_IP "121.43.42.195"
+#define SERVER_IP "***.***.**.**"
 #define SERVER_PORT 10000
 
 /* 本地缓存服务器返回的历史记录数组 */
