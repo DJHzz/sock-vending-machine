@@ -1,5 +1,5 @@
 # SockVend 云端贩卖机项目
-# 🧦 SockVend - 云端自助贩卖机系统
+#  SockVend - 云端自助贩卖机系统
 
 > **纯 C 语言全栈开发 | LVGL 嵌入式前端 | 自研 Linux Socket 云服务端**
 
